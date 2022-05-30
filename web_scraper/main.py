@@ -1,4 +1,4 @@
-import requests
+"""import requests
 import validators
 import os
 
@@ -40,3 +40,10 @@ def IsItDown():
     print('wrong Command!')
 
 IsItDown()
+"""
+
+
+import math
+
+print(math.ceil(2.0))
+print(10/3)
